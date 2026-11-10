@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://thunderatz.org/">
-    <img src="../assets/LogoTR-Vertical_Amarelo.png" alt="Logo da ThundeRatz" width="260" />
+    <img src="./assets/LogoTR-Vertical_Amarelo.png" alt="Logo da ThundeRatz" width="260" />
   </a>
 </p>
 
