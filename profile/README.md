@@ -68,5 +68,5 @@ Encontrou um projeto interessante? Sinta-se à vontade para abrir uma issue, pro
 - ✉️ [contato@thunderatz.org](mailto:contato@thunderatz.org)
 
 <p align="center">
-  <sub>Feito com ⚡ pela ThundeRatz — Poli-USP, São Paulo, Brasil.</sub>
+  <sub>Feito com ⚡ pela ThundeRatz</sub>
 </p>
