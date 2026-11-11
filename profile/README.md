@@ -12,14 +12,17 @@
 
 <p align="center">
   <a href="https://thunderatz.org/">Site</a> ·
-  <a href="https://github.com/ThundeRatz">GitHub</a> ·
+  <a href="https://www.instagram.com/thunderatz/">Instagram</a> ·
+  <a href="https://www.linkedin.com/company/thunderatz-equipe-de-rob-tica/">LinkedIn</a> ·
   <a href="mailto:contato@thunderatz.org">Contato</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ThundeRatz?tab=repositories"><img src="https://img.shields.io/badge/repositórios-públicos-FFC107?style=flat-square&logo=github&logoColor=181717" alt="Repositórios públicos" /></a>
-  <a href="https://thunderatz.org/"><img src="https://img.shields.io/badge/robótica-engenharia-1F4E79?style=flat-square" alt="Robótica e engenharia" /></a>
-  <a href="https://www.poli.usp.br/"><img src="https://img.shields.io/badge/Poli--USP-São%20Paulo-005CA9?style=flat-square" alt="Poli-USP" /></a>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS" />
+  <img src="https://img.shields.io/badge/STM32-03234C?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ## Sobre a ThundeRatz
@@ -60,10 +63,8 @@ Encontrou um projeto interessante? Sinta-se à vontade para abrir uma issue, pro
 
 > Projetos antigos podem estar arquivados ou sem manutenção ativa. Consulte o repositório correspondente para conhecer seu estado atual, dependências e licença.
 
-## Saiba mais
+## Fale conosco
 
-- 🌐 [thunderatz.org](https://thunderatz.org/)
-- 🐙 [github.com/ThundeRatz](https://github.com/ThundeRatz)
 - ✉️ [contato@thunderatz.org](mailto:contato@thunderatz.org)
 
 <p align="center">
