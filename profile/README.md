@@ -59,6 +59,15 @@ Nossa organização reúne projetos criados ao longo da história da equipe — 
   <a href="https://github.com/ThundeRatz?tab=repositories"><strong>→ Explore todos os repositórios públicos</strong></a>
 </p>
 
+## Materiais de Aulas
+
+Disponibilizamos publicamente os materiais utilizados em nossas aulinhas para nossos membros. São ótimos pontos de partida para quem deseja iniciar na robótica de competição:
+
+- 🧮 **[Controle (2026)](https://github.com/ThundeRatz/aula-controle-2026):** Fundamentos de controle aplicados à robótica.
+- 🤖 **ROS (Robot Operating System):** Materiais introdutórios e práticas de simulação.
+  - [Aula de 2026](https://github.com/ThundeRatz/aula-ros-2026)
+  - [Aula de 2025](https://github.com/ThundeRatz/aula-ros-2025)
+
 ## Para quem quer contribuir
 
 Encontrou um projeto interessante? Sinta-se à vontade para abrir uma issue, propor uma melhoria ou enviar um pull request. Antes de contribuir, confira o `README` e as orientações específicas do repositório.
