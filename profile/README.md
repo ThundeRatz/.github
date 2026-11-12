@@ -42,16 +42,18 @@ Nossa organização reúne projetos criados ao longo da história da equipe — 
 
 ## Projetos em destaque
 
-| Projeto                                                                        | Descrição                                                                        |
-| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
-| [**STM32Guide**](https://github.com/ThundeRatz/STM32Guide)                     | Guia para programação de microcontroladores da STMicroelectronics.               |
-| [**STM32ProjectTemplate**](https://github.com/ThundeRatz/STM32ProjectTemplate) | Template para projetos com STM32 e STM32CubeMX.                                  |
-| [**travesim**](https://github.com/ThundeRatz/travesim)                         | Ambiente de simulação Gazebo para robôs de futebol da categoria IEEE VSS.        |
-| [**ROSGazeboGuide**](https://github.com/ThundeRatz/ROSGazeboGuide)             | Guia de introdução ao ROS e ao Gazebo.                                           |
-| [**STM32RF24**](https://github.com/ThundeRatz/STM32RF24)                       | Biblioteca para comunicação com o módulo de rádio nRF24L01 usando STM32.         |
-| [**STM32MemoryCard**](https://github.com/ThundeRatz/STM32MemoryCard)           | Biblioteca para aplicações com cartões SD em microcontroladores STM32.           |
-| [**T.H.O.R.**](https://github.com/ThundeRatz/T.H.O.R.)                         | ThundeRatz Holistic Operational Robot, nossa infraestrutura de presença virtual. |
-| [**ThunderSite**](https://github.com/ThundeRatz/ThunderSite)                   | Código do site institucional da equipe.                                          |
+| Projeto                                                                        | Descrição                                                                                          |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| [**STM32Guide**](https://github.com/ThundeRatz/STM32Guide)                     | Guia para programação de microcontroladores da STMicroelectronics.                                 |
+| [**STM32ProjectTemplate**](https://github.com/ThundeRatz/STM32ProjectTemplate) | Template para projetos com STM32 e STM32CubeMX.                                                    |
+| [**Perse Mujoco**](https://github.com/ThundeRatz/perse_mujoco)                 | Simulação do Perse, nosso robô autônomo da categoria Trekking, utilizando o motor de física MuJoCo |
+| [**Perse egui**](https://github.com/ThundeRatz/perse_egui)                     | Interface gráfica de controle e telemetria do Perse                                                |
+| [**travesim**](https://github.com/ThundeRatz/travesim)                         | Ambiente de simulação Gazebo para robôs de futebol da categoria IEEE VSS.                          |
+| [**ROSGazeboGuide**](https://github.com/ThundeRatz/ROSGazeboGuide)             | Guia de introdução ao ROS e ao Gazebo.                                                             |
+| [**STM32RF24**](https://github.com/ThundeRatz/STM32RF24)                       | Biblioteca para comunicação com o módulo de rádio nRF24L01 usando STM32.                           |
+| [**STM32MemoryCard**](https://github.com/ThundeRatz/STM32MemoryCard)           | Biblioteca para aplicações com cartões SD em microcontroladores STM32.                             |
+| [**T.H.O.R.**](https://github.com/ThundeRatz/T.H.O.R.)                         | ThundeRatz Holistic Operational Robot, nossa infraestrutura de presença virtual.                   |
+| [**ThunderSite**](https://github.com/ThundeRatz/ThunderSite)                   | Código do site institucional da equipe.                                                            |
 
 <p align="center">
   <a href="https://github.com/ThundeRatz?tab=repositories"><strong>→ Explore todos os repositórios públicos</strong></a>
