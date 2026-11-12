@@ -20,6 +20,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS" />
   <img src="https://img.shields.io/badge/STM32-03234C?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -36,7 +37,7 @@ Nossa organização reúne projetos criados ao longo da história da equipe — 
 - 🤖 **Robótica móvel e autônoma**
 - ⚽ **Futebol de robôs e simulação**
 - 🔩 **Sistemas embarcados e firmware**
-- 🧭 **ROS, Gazebo e ferramentas de simulação**
+- 🧭 **ROS, Gazebo, MuJoCo e ferramentas de simulação**
 - 👁️ **Visão computacional e inteligência artificial**
 - 🛠️ **Eletrônica, controle e infraestrutura de software**
 
