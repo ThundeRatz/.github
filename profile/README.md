@@ -4,8 +4,6 @@
   </a>
 </p>
 
-<h1 align="center">ThundeRatz</h1>
-
 <p align="center">
   <strong>Equipe de robótica da Escola Politécnica da Universidade de São Paulo (Poli-USP)</strong>
 </p>
